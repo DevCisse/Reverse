@@ -1,2 +1,2 @@
-# JsSiteTemplate
-A template for JS coding challenges
+# Reverse
+A JavaScript coding challenge that reverses a string
