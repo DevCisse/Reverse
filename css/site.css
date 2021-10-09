@@ -1,6 +1,6 @@
 :root{
     --primary-color:#1d5888;
-    --secondary-color:#ff993b;
+    --secondary-color:hsl(0, 100%, 62%);
     --dark-color:#292929;
     --white-color:#dff3ef;
 
@@ -76,3 +76,6 @@ code[class*="language-"],
 word-break: break-all;
 word-wrap: break-word;
 }
+
+
+
